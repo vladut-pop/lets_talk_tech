@@ -1,0 +1,28 @@
+.parallax {
+  /* The image used */
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.center_pos {
+  position: absolute;
+  left: 0;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+}
+
+.bot_pos {
+  position: absolute;
+  left: 0;
+  top: 95%;
+  width: 100%;
+  text-align: center;
+}
