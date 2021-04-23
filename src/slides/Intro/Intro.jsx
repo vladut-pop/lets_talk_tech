@@ -11,6 +11,7 @@ const Intro = () => {
       <h1 className="display-2 text-white">LET'S TALK TECH</h1>
       <h2 className='text-white'>Most popular React Component UI Libraries (2021)</h2>
       <h3 className='text-white'>Material UI(1.5kk) & Ant Design (576k)</h3>
+      
       {/* <p>Table of contet:</p>
       <ul>
         <li>Ant Design</li>
